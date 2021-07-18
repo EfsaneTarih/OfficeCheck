@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "487828429249",
+    "project_id": "officecheck-65495",
+    "storage_bucket": "officecheck-65495.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487828429249:android:4a667385e26b20f4fbf740",
+        "android_client_info": {
+          "package_name": "com.efsanetarih.officecheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487828429249-4uhkia10eq5apekimgl26g56d3n88pfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXuTvs7RBXEpAW0dPncGV_7btCACgKBbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487828429249-4uhkia10eq5apekimgl26g56d3n88pfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
